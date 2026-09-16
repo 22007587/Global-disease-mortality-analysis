@@ -14,3 +14,6 @@ The dataset is used to explore the distribution of COVID-19 infections and death
 The data was obtained from a screenshot of charts showing COVID-19 infections and deaths by age group in South Africa.
 
 **Note:** The two charts have different reporting dates and age-group ranges. Therefore, direct age-specific mortality comparisons require caution.
+<img width="1200" height="1077" alt="1000030766" src="https://github.com/user-attachments/assets/dd9b2ef3-59ec-4d41-ba14-02200724607d" />
+
+
