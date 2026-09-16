@@ -1,3 +1,16 @@
 # Global-disease-mortality-analysis
 # Overview
-Power BI analysis of mortality trends across COVID-19, malaria, and Ebola using data cleaning, DAX, and interactive visualizations.
+The dataset contains COVID-19 infections and deaths by age group in South Africa.
+
+The data consists of two snapshots:
+
+- **Infections:** Department of Health, 19 April 2020 (total = 3,144).
+- **Deaths:** National Institute for Communicable Diseases (NICD), 2 May 2020 (total = 123).
+
+The dataset is used to explore the distribution of COVID-19 infections and deaths across different age groups.
+
+### Data Source
+
+The data was obtained from a screenshot of charts showing COVID-19 infections and deaths by age group in South Africa.
+
+**Note:** The two charts have different reporting dates and age-group ranges. Therefore, direct age-specific mortality comparisons require caution.
