@@ -9,16 +9,19 @@ The data consists of two snapshots:
 
 The dataset is used to explore the distribution of COVID-19 infections and deaths across different age groups.
 
-# Project structure
-Global-disease-mortality-analysis/
+ Global-disease-mortality-analysis/
 │
 ├── README.md
 │
 ├── data/
-│   └── disease_mortality.csv
+│   ├── raw/
+│   │   └── source_screenshot.png
+│   │
+│   └── processed/
+│       └── covid_age_group_analysis.xlsx
 │
 ├── powerbi/
-│   └── Global_Disease_Mortality_Analysis.pbix
+│   └── covid_mortality_dashboard.pbix
 │
 ├── documentation/
 │   ├── data_dictionary.md
@@ -26,8 +29,7 @@ Global-disease-mortality-analysis/
 │
 └── screenshots/
     ├── overview.png
-    ├── mortality_trends.png
-    └── geographic_analysis.png
+    └── age_group_analysis.png
 
 ### Data Source
 
